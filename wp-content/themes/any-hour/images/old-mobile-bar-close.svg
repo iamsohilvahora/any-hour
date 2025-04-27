@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 30" width="24" height="30">
+	<defs>
+		<image width="34" height="4" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAEBAMAAAAZnPDaAAAAAXNSR0IB2cksfwAAABVQTFRFAAAA////////////////////////SM9tBAAAAAd0Uk5TAFDP/9/g0LLSyGEAAAAcSURBVHicYxAyRgWODM5oIkYMwWgiZgxiaCKBAOfXDa3BwKRdAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Folder 1">
+		<use id="Rectangle" href="#img1" transform="matrix(0.589,-0.808,0.808,0.589,0.369,27.559)"/>
+		<use id="Rectangle copy" href="#img1" transform="matrix(-0.589,-0.808,-0.808,0.589,23.964,27.474)"/>
+	</g>
+</svg>
